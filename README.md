@@ -1,6 +1,5 @@
-# AyahaUnityDevelopRepositoryTemplate
-作ったUnity関係のリポジトリのテンプレート
+# Unity-Timeline-Clip-Default-Duration
+【Unity】TimelineのClipを生成した際の時間を設定する方法
+の記事で使ったソースコード
 
-# 導入方法
-# 使い方
-# 不具合
+ClipのDurationを変更するときはdurationを直接overrideでも実装できるがEditor拡張してOnCreateで変更したほうが見た目が変わらない
